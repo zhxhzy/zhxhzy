@@ -42,8 +42,11 @@
     <td align="center" width="50%" style="border: none; background-color: transparent;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhxhzy&theme=default&hide_border=true" height="140" alt="GitHub Streak" />
     </td>
-    <td align="center" width="50%" style="border: none; background-color: transparent;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=12&pause=5000&color=000000&center=true&vCenter=true&width=500&lines=Simplicity+is+the+ultimate+sophistication.+Leonardo+da+Vinci" alt="Quote" />
+    <td align="center" width="50%" style="border: none; background-color: transparent; padding: 20px;">
+      <br>
+      <i><b>Simplicity is the ultimate sophistication.</b></i>
+      <br><br>
+      Leonardo da Vinci
     </td>
   </tr>
 </table>
