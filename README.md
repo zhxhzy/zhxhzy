@@ -37,9 +37,16 @@
 
 ### 📊 GitHub Activity & Contributions
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhxhzy&theme=default&hide_border=true" height="140" alt="GitHub Streak" />
-</div>
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td align="center" width="50%" style="border: none; background-color: transparent;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhxhzy&theme=default&hide_border=true" height="140" alt="GitHub Streak" />
+    </td>
+    <td align="center" width="50%" style="border: none; background-color: transparent;">
+      <img src="https://readme-daily-quotes.vercel.app/api?theme=transparent&hide_border=true&font=ubuntu" alt="Daily Quote" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -50,6 +57,4 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhxhzy/zhxhzy/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-<div align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=radical&font=ubuntu" alt="Daily Quote" />
-</div>
+
