@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Hi,+I'm+Hanxu+Zhang+👋;Graduate+Student+@+TJUT;ICML+2026+Author+🚀;AI+%2F+Computer+Vision+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Hanxu+Zhang+👋;Graduate+Student+@+TJUT;ICML+2026+Author+🚀;AI+%2F+Computer+Vision+Researcher" alt="Typing SVG" />
 </div>
 
 <br>
@@ -28,17 +28,17 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,python,ubuntu,vscode,git,latex,linux&theme=light" />
-</p>
+### 🔬 Research & Projects
+* 🌟 **Structural Health Monitoring:** Developing vision-based solutions for automated infrastructure inspection, facilitating real-time inference on edge devices (e.g., drone-mounted systems).
+* 🚀 **Efficient Architectures:** Exploring linear-complexity visual models like **Vision-RWKV** and **Mamba** to replace traditional heavy Transformers in dense prediction tasks.
+* 💻 **Open Source Community:** Actively maintaining research codebases, multi-modal datasets, and providing reproducible baselines for the community.
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### 📊 GitHub Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhxhzy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhxhzy&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
