@@ -50,3 +50,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhxhzy/zhxhzy/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+<div align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=radical&font=ubuntu" alt="Daily Quote" />
+</div>
