@@ -24,14 +24,7 @@
 > 
 > [📄 Paper]([论文链接]) | [💻 Code]([你的代码仓库链接]) 
 
----
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,python,ubuntu,vscode,git,latex,linux&theme=light" />
-</p>
-
----
 
 ### 📊 GitHub Stats & Contributions
 
