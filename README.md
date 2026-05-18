@@ -29,8 +29,8 @@
 ---
 
 ### 🔬 Research & Projects
-* 🌟 **Structural Health Monitoring:** Developing vision-based solutions for automated infrastructure inspection, facilitating real-time inference on edge devices (e.g., drone-mounted systems).
-* 🚀 **Efficient Architectures:** Exploring linear-complexity visual models like **Vision-RWKV** and **Mamba** to replace traditional heavy Transformers in dense prediction tasks.
+* 🌟 **Structural Health Monitoring:** Developing vision-based solutions for automated infrastructure inspection, facilitating real-time inference on edge devices.
+* 🚀 **Efficient Architectures:** Exploring linear-complexity visual models to replace traditional heavy Transformers in dense prediction tasks.
 * 💻 **Open Source Community:** Actively maintaining research codebases, multi-modal datasets, and providing reproducible baselines for the community.
 
 ---
