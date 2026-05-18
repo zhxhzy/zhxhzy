@@ -38,7 +38,7 @@
 ### 📊 GitHub Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhxhzy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&hide_rank=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhxhzy&theme=default&hide_border=true" height="140" alt="GitHub Streak" />
 </div>
 
 <br>
