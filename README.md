@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Activity & Contributions
+### 📊 Life
 
 <table align="center" style="border: none; background-color: transparent;">
   <!-- <tr style="border: none; background-color: transparent;">
