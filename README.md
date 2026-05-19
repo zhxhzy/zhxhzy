@@ -38,23 +38,14 @@
 ### 📊 Life
 
 <table align="center" style="border: none; background-color: transparent;">
-  <!-- <tr style="border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
     <td align="center" width="50%" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhxhzy&theme=default&hide_border=true" height="140" alt="GitHub Streak" />
-    </td>
-    <td align="center" width="50%" style="border: none; background-color: transparent; padding: 20px;"> -->
-    <tr style="border: none; background-color: transparent;">
-    <td align="center" width="50%" style="border: none; background-color: transparent;">
-      <img src="https://github.com/zhxhzy/Figures/blob/main/pictuer20260519221947_666_93.jpg" height="140" alt="No bugs, just blue seas and clean code." />
+      <img src="https://github.com/zhxhzy/Figures/blob/main/pictuer20260519221947_666_93.jpg?raw=true" height="140" alt="Profile Image" />
     </td>
     <td align="center" width="50%" style="border: none; background-color: transparent; padding: 20px;">
-      <br>
-      <i><b> No bugs, just blue seas and clean code.</b></i>
-     
-            <br><br>
-      <i><b>Simplicity is the ultimate sophistication.</b></i>
-
-  
+      <i><b>"No bugs, just blue seas and clean code."</b></i>
+      <br><br>
+      <font size="2"><i>Simplicity is the ultimate sophistication.</i></font>
     </td>
   </tr>
 </table>
