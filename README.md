@@ -49,9 +49,12 @@
     </td>
     <td align="center" width="50%" style="border: none; background-color: transparent; padding: 20px;">
       <br>
+      <i><b> No bugs, just blue seas and clean code.</b></i>
+     
+            <br><br>
       <i><b>Simplicity is the ultimate sophistication.</b></i>
-      <br><br>
-      Leonardo da Vinci
+
+  
     </td>
   </tr>
 </table>
