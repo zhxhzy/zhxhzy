@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 Life
+### 🎮 Other
 
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none; background-color: transparent;">
