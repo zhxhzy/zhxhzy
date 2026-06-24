@@ -37,15 +37,18 @@
 
 ### 🎮 Other
 
-<table align="center" width="100%" cellspacing="0" cellpadding="0" style="width: 100%; border: none; border-collapse: collapse; background: transparent;">
+<div style="width: 100% !important; margin: 0 auto;">
 
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none; background-color: #eef6f7; padding: 18px;">
+<table width="100%" cellspacing="0" cellpadding="0"
+style="width: 100% !important; min-width: 100% !important; max-width: none !important; display: table !important; table-layout: fixed !important; border-collapse: collapse !important; margin: 0 !important;">
+
+  <tr>
+    <td align="center" width="50%" style="background-color: #eef6f7; padding: 18px;">
       <img src="https://github.com/zhxhzy/Figures/blob/main/pictuer20260519221947_666_93.jpg?raw=true"
-           height="150" alt="Blue sea" />
+           width="360" alt="Blue sea" style="max-width: 100%; height: auto;" />
     </td>
 
-<td align="center" width="50%" style="border: none; background-color: #f8fbfc; padding: 20px;">
+<td align="center" width="50%" style="background-color: #f8fbfc; padding: 20px;">
   <i><b>"No bugs, just blue seas and clean code."</b></i>
   <br><br>
   <sub><i>Simplicity is the ultimate sophistication.</i></sub>
@@ -54,15 +57,15 @@
 
   </tr>
 
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none; background-color: #f7f4ee; padding: 18px 14px;">
+  <tr>
+    <td align="center" width="50%" style="background-color: #f7f4ee; padding: 18px 14px;">
       <i><b>"Do not rush to bloom;<br>roots also grow in silence."</b></i>
       <br><br>
       <sub>不必急着盛开，根也在沉默中生长。</sub>
     </td>
 
 
-<td align="center" width="50%" style="border: none; background-color: #f2f6f8; padding: 18px 14px;">
+<td align="center" width="50%" style="background-color: #f2f6f8; padding: 18px 14px;">
   <i><b>"The climb is quiet, but every step<br>changes the view."</b></i>
   <br><br>
   <sub>攀登很安静，但每一步都在改变眼前的风景。</sub>
@@ -71,8 +74,8 @@
 
   </tr>
 
-  <tr style="border: none;">
-    <td colspan="2" align="center" style="border: none; background-color: #eef4f1; padding: 18px;">
+  <tr>
+    <td colspan="2" align="center" style="background-color: #eef4f1; padding: 18px;">
       <i><b>"Some nights are for resting,<br>not for giving up."</b></i>
       <br><br>
       <sub>有些夜晚是用来休息的，不是用来放弃的。</sub>
@@ -81,6 +84,7 @@
 
 </table>
 
+</div>
 
 
 
