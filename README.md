@@ -37,6 +37,7 @@
 
 ### 🎮 Other
 
+<div style="width: 100% !important; margin: 0 auto;">
 <table align="left" cellspacing="0" cellpadding="0">
 
   <tr>
@@ -93,7 +94,7 @@
 
 </table>
 
-
+</div>
 
 
 
