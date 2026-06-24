@@ -37,13 +37,13 @@
 
 ### 🎮 Other
 
-<table align="center" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; background: transparent; max-width: 680px;">
+<table align="center" width="100%" cellspacing="0" cellpadding="0" style="width: 100%; border: none; border-collapse: collapse; background: transparent;">
 
   <tr style="border: none;">
     <td align="center" width="50%" style="border: none; background-color: #eef6f7; padding: 18px;">
-      <img src="https://github.com/zhxhzy/Figures/blob/main/pictuer20260519221947_666_93.jpg?raw=true" height="140" alt="Blue sea" />
+      <img src="https://github.com/zhxhzy/Figures/blob/main/pictuer20260519221947_666_93.jpg?raw=true"
+           height="150" alt="Blue sea" />
     </td>
-
 
 <td align="center" width="50%" style="border: none; background-color: #f8fbfc; padding: 20px;">
   <i><b>"No bugs, just blue seas and clean code."</b></i>
@@ -80,6 +80,7 @@
   </tr>
 
 </table>
+
 
 
 
