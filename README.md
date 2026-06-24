@@ -55,9 +55,9 @@
 <td width="62%" align="center" valign="middle"
     bgcolor="#f8fbfc"
     style="border: none !important; padding: 18px 22px;">
-  <i><b>"No bugs, just blue seas and clean code."</b></i>
+  <i><b>"A quiet mind turns complex ideas into clear code."</b></i>
   <br><br>
-  <sub><i>Simplicity is the ultimate sophistication.</i></sub>
+  <sub><i>平静的心，能将复杂的想法写成清晰的代码。</i></sub>
 </td>
 
 
