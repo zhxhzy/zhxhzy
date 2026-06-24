@@ -45,7 +45,7 @@
     <td rowspan="4" width="38%" align="center" valign="middle"
         bgcolor="#eef6f7"
         style="border: none !important; padding: 12px;">
-      <img src="https://github.com/zhxhzy/Figures/blob/main/pictuer20260519221947_666_93.jpg?raw=true"
+      <img src="https://github.com/zhxhzy/Figures/blob/main/bbc8a9ef-eff1-4345-a317-279923ed468f.png?raw=true"
            width="100%"
            alt="Blue sea"
            style="display: block; width: 100%; height: auto;" />
