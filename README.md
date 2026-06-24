@@ -61,13 +61,12 @@
       <sub>不必急着盛开，根也在沉默中生长。</sub>
     </td>
 
-```
 <td align="center" width="50%" style="border: 1px solid #d0d7de; padding: 16px;">
   <i><b>"The climb is quiet, but every step<br>changes the view."</b></i>
   <br><br>
   <sub>攀登很安静，但每一步都在改变眼前的风景。</sub>
 </td>
-```
+
 
   </tr>
 
