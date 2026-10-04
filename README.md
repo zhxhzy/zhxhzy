@@ -1,10 +1,13 @@
+<!--
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Hanxu+Zhang+👋;Graduate+Student+@+TJUT;ICML+2026+Author+🚀;AI+%2F+Computer+Vision+Researcher" alt="Typing SVG" />
 </div>
 
 <br>
+-->
 
 ### 🎓 About Me
+
 * 🎓 I'm currently a Graduate Student at **Tianjin University of Technology**.
 * 🔬 My research interests focus on **Computer Vision, Semantic Segmentation, and Model Lightweighting**.
 * 💡 I'm passionate about building efficient, robust, and deployable AI systems for real-world applications.
@@ -21,24 +24,28 @@
 </div>
 
 **SCRWKV: Ultra-Compact Structure-Calibrated Vision-RWKV for Topological Crack Segmentation**
+
 *Hanxu Zhang, Chen Jia, Hui Liu, Xu Cheng, Fan Shi, Shengyong Chen*
+
 > We proposed a novel architecture that achieves SOTA performance in structural crack segmentation while maintaining linear computational complexity, making it ideal for edge deployment.
-> 
-> [💻 Code & Project](https://github.com/zhxhzy/SCRWKV) 
+>
+> [💻 Code & Project](https://github.com/zhxhzy/SCRWKV)
 
 ---
 
 ### 🔬 Research & Projects
+
 * 🌟 **Structural Health Monitoring:** Developing vision-based solutions for automated infrastructure inspection, facilitating real-time inference on edge devices.
 * 🚀 **Efficient Architectures:** Exploring linear-complexity visual models to replace traditional heavy Transformers in dense prediction tasks.
 * 💻 **Open Source Community:** Actively maintaining research codebases, multi-modal datasets, and providing reproducible baselines for the community.
 
 ---
 
+<!--
 ### 🎮 Other
 
 <div style="width: 100% !important; margin: 0 auto;">
-  
+
 <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="width: 100%; border-collapse: collapse;">
 
   <tr>
@@ -51,16 +58,13 @@
            style="display: block; width: 100%; height: auto;" />
     </td>
 
-
-<td width="62%" align="center" valign="middle"
-    bgcolor="#f8fbfc"
-    style="border: none !important; padding: 18px 22px;">
-  <i><b>"A quiet mind turns complex ideas into clear code."</b></i>
-  <br><br>
-  <sub><i>平静的心，能将复杂的想法写成清晰的代码。</i></sub>
-</td>
-
-
+    <td width="62%" align="center" valign="middle"
+        bgcolor="#f8fbfc"
+        style="border: none !important; padding: 18px 22px;">
+      <i><b>"A quiet mind turns complex ideas into clear code."</b></i>
+      <br><br>
+      <sub><i>平静的心，能将复杂的想法写成清晰的代码。</i></sub>
+    </td>
   </tr>
 
   <tr>
@@ -95,12 +99,10 @@
 
 </table>
 
-
 </div>
 
-
-
 <br>
+-->
 
 <div align="center">
   <picture>
@@ -109,4 +111,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhxhzy/zhxhzy/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
